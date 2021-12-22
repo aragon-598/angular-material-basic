@@ -1,0 +1,37 @@
+[
+  {
+    "usuario":"aragon",
+    "nombre":"Alejandro",
+    "apellido":"Aragón",
+    "password":"ar12345",
+    "sexo":"M"
+  },
+  {
+    "usuario":"interiano",
+    "nombre":"Felipe",
+    "apellido":"Interiano",
+    "password":"in12345",
+    "sexo":"M"
+  },
+  {
+    "usuario":"paopo",
+    "nombre":"Paola",
+    "apellido":"Posada",
+    "password":"pa12345",
+    "sexo":"F"
+  },
+  {
+    "usuario":"momo",
+    "nombre":"Monica",
+    "apellido":"Villalta",
+    "password":"mo12345",
+    "sexo":"F"
+  },
+  {
+    "usuario":"romel",
+    "nombre":"Rocio",
+    "apellido":"Arevalo",
+    "password":"ro12345",
+    "sexo":"F"
+  }
+]
